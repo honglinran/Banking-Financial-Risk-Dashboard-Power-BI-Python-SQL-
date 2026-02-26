@@ -1,0 +1,16 @@
+use banking;
+show tables;
+select* from customer;
+
+ALTER TABLE customer
+ADD COLUMN total_loan DECIMAL(18,2);
+
+SELECT total_loan, `Bank Loans`, `Business Lending`
+FROM customer
+LIMIT 20;
+
+UPDATE customer 
+SET total_loan = COALESCE(`Bank Loans`, 0) + COALESCE(`Business Lending`, 0); 
+
+SELECT total_loan
+FROM customer;
