@@ -95,5 +95,3 @@ While wrangling the data, I often tested multiple approaches to solve the same p
 - **SQL aggregations** vs **DAX measures** in Power BI  
 This helped me understand trade-offs and choose the most suitable method depending on the use case.
 
-I also used **ChatGPT** as a learning assistant to clarify domain concepts (e.g., what different banking metrics mean and how they should be calculated).
-
