@@ -88,6 +88,12 @@ Deposit-focused insights and segmentation such as:
 - Bank Deposit by Occupation
 - Bank Deposit by Income Band
 - Bank Deposit by Nationality
+  
+<img width="1652" height="938" alt="Banking Dashboard Summary" src="https://github.com/user-attachments/assets/fd26dc42-9fc7-433d-a7d9-fe702670dee0" />
+
+<img width="1672" height="964" alt="Banking Dashboard 2" src="https://github.com/user-attachments/assets/48866867-3d2b-4d71-9a8f-0d88a4e90123" />
+
+<img width="1672" height="928" alt="Banking Dashboard 3" src="https://github.com/user-attachments/assets/175bf80b-1767-4151-a406-c7d875493d06" />
 
 ## Key Learning
 This project was also my learning journey into a new industry (banking).  
